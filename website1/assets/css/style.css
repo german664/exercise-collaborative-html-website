@@ -4,10 +4,10 @@ body{
 
 .jumbotron {
     background-image: url("https://a-static.besthdwallpaper.com/el-golden-gate-de-san-francisco-papel-pintado-2560x1080-4747_14.jpg");
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 600px;
+    height: 100vh;
 }
 
 .my-tagline-class {
