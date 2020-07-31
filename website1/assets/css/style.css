@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+
+.form-card, .form-card input[type=email], .form-card textarea {
+    font-size: 0.8rem;
+}
+
+.texto-secundario {
+    font-size: 1.1rem;
+}
+
+.tercer-heading{
+    font-size: 2rem;
+}
