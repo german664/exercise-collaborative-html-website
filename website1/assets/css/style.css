@@ -2,6 +2,45 @@ body{
     background: #BDBDBD;
 }
 
+.jumbotron {
+    background-image: url("https://a-static.besthdwallpaper.com/el-golden-gate-de-san-francisco-papel-pintado-2560x1080-4747_14.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+}
+
+.my-tagline-class {
+    font-size: 5rem;
+    width: 150%;
+    height: 20%;
+    background: #fff9;
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.my-tagline-class-secondary {
+    font-size: 3rem;
+    width: 150%;
+    height: 20%;
+    background: #fff9;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+.img-thumbnail {
+    width: 80%;
+    border: none;
+    padding: none;
+    margin: none;
+}
+
+.my-heading1-class {
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+
 .form-card, .form-card input[type=email], .form-card textarea {
     font-size: 0.8rem;
 }
